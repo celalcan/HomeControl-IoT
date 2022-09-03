@@ -1,2 +1,2 @@
 # HomeControl-IoT
-Arduino - Esp8266 Ethernet Module - Php - 
+Arduino - Esp8266 Ethernet Module - Php - JavaScript
